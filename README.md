@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey! My name is Michael and I recently grauated from the University of Strathclyde! I'm learning to code through JP Morgan's Tech Connect Program.
+Hey! My name is Michael and I recently graduated from the University of Strathclyde! I'm learning to code through JP Morgan's Tech Connect Program.
